@@ -16,7 +16,7 @@
 - [Changelog](#Changelog)
 - [Report Bugs](#Report-Bugs)
 - [Recommended VPS Provider](#Recommended-VPS-Provider)
-- [LAMP Stack](#LAMP-STACK)
+- [LEMP Stack](#LEMP-STACK)
 - [License](#License)
 
 ## Supported OS
