@@ -1,4 +1,4 @@
-# LEMP
+# LAMP
 <p align=center>
   <a href="https://www.linux.org/"><img src="https://github.com/linux-doc.png" width="128"></a>
   <a href="https://github.com/apache"><img src="https://github.com/apache.png" width="128"></a>
