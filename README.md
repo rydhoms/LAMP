@@ -46,6 +46,7 @@ or
 
 `curl -Lso- lamp.my.id | bash`
 
+
 > [!CAUTION]
 > Note: this script is still under development, please do not use it on production servers or servers that are already running. It is highly recommended to use it on new servers.
 
